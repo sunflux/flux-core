@@ -1,0 +1,7 @@
+.idea/*
+fbp- new backup.config
+fbp-backup.txt
+*.pyc
+build/*
+venv/
+server/static/*
